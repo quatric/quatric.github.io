@@ -1,4 +1,4 @@
-# quatric - Innovating the homebrew scene.
+# quatric - Innovating the homebrew scene
 
 I am a homebrew developer who is coming up with creative and logical projects for Nintendo consoles, especially the Wii.
 
